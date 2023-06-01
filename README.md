@@ -1,5 +1,7 @@
 <div align=center width='100%'>
 
+<img alt="banner" src="https://github.com/lovecoal0928/lovecoal0928/blob/main/banner.svg" width="100%" />
+
 <div align=left>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;Hello! Welcome to my GitHub profile!
