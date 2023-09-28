@@ -29,6 +29,6 @@
 </div>
 
 <div align=right>
-  <div align=center width="45%"><h2>Frontend</h2><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,threejs,html,css&perline=8" width="45%"></div><div align=center width="45%"><h2>Backend</h2><img src="https://skillicons.dev/icons?i=go,py,django,php,laravel,firebase,postgres,postman&perline=8" width="45%"></div><div align=center width="45%"><h2>Others</h2><img src="https://skillicons.dev/icons?i=figma,unity,blender,wordpress&perline=8" width="21%"></div>
+  <div align=center width="45%"><h3>Frontend</h3><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,threejs,html,css&perline=8" width="45%"></div><div align=center width="45%"><h3>Backend</h3><img src="https://skillicons.dev/icons?i=go,py,django,php,laravel,firebase,postgres,postman&perline=8" width="45%"></div><div align=center width="45%"><h3>Others</h3><img src="https://skillicons.dev/icons?i=figma,unity,blender,wordpress&perline=8" width="21%"></div>
 </div>
 </div>
