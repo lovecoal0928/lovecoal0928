@@ -4,7 +4,7 @@
 
 <div align=left>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp; Hello! Welcome to my GitHub profile!
+<b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hello! Welcome to my GitHub profile!</b>
 
 
 <img src="https://raw.githubusercontent.com/lovecoal0928/lovecoal0928/main/profile-summary-card-output/aura_dark/0-profile-details.svg" width="100%">
